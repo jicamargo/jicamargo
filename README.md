@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner-github.png" alt="Banner">
+</p>
 ![Hello world](banner-github.png)
 
 # Hi, I'm Jorge Camargo! 👋
