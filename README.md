@@ -1,6 +1,6 @@
 # Hello, I'm Jorge Camargo! 👋
 
-![Banner](URL_DE_LA_IMAGEN)
+![Hello world](banner-github.png)
 ## About Me 📝
 👨‍💻 Full Stack Developer \
 📚 Passionate about learning, contributing, and sharing \
