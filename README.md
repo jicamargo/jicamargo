@@ -35,6 +35,11 @@
 
 Feel free to reach out to me through any of the provided channels! Let's connect and collaborate! 😊
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jicamargo&" alt="jicamargo" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jicamargo&" alt="jicamargo" />
+</p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/-jicamargo-000000?logo=github&style=for-the-badge&logoColor=white&labelColor=black" alt="jicamargo" />
+</p>
