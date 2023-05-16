@@ -2,9 +2,7 @@
 
 # Hi, I'm Jorge Camargo! 👋
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=jicamargo&color=green)
-  
-  <img src="https://komarev.com/ghpvc/?username=jicamargo&label=Profile%20views&color=0e75b6&style=flat" alt="jicamargo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jicamargo&label=Profile%20views&color=green&style=flat" alt="jicamargo" /> </p>
 --- 
 
 ## About Me 📝
