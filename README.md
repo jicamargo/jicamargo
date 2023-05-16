@@ -2,10 +2,15 @@
 
 # Hi, I'm Jorge Camargo! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhnazary&label=Profile%20views&color=0e75b6&style=flat" alt="jicamargo" /> </p>
+--- 
+
 ## About Me 📝
 👨‍💻 Full Stack Developer \
 📚 Passionate about learning, contributing, and sharing \
 💻 Skills: JavaScript, HTML, CSS, ES6, Node.js, SQL, MongoDB
+
+
 
 ## Experience 💼
 💡 Developed flexible and customizable modules for accounting, inventory, payroll, billing, clients, suppliers, and more while adhering to local laws and regulations \
@@ -26,3 +31,5 @@
 🎸 Playing the guitar
 
 Feel free to reach out to me through any of the provided channels! Let's connect and collaborate! 😊
+
+---
