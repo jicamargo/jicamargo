@@ -1,7 +1,5 @@
----
 
-<p align="center">
-[Hello world](banner-github.png)
+![Hello world](banner-github.png)
 
 # Hi, I'm Jorge Camargo! 👋
 
