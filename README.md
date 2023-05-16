@@ -14,7 +14,7 @@
 ## Contact Me 📞
 📧 Email: ji_camargo@yahoo.com \
 💼 LinkedIn: [Jorge Camargo](https://www.linkedin.com/in/jorgecamargog/) \
-📱 WhatsApp: +57-3164695217
+📱 WhatsApp: [wa.me](https://wa.me/3164695217)
 
 ## Quote of the Day 💡
 "Hard work does not guarantee success, but without it, you have no chance." - Jim Rohn
